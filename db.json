@@ -1,0 +1,28 @@
+{
+  "users": [
+  {
+    "name": "João Silva",
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "photoUrl": "https://exemplo.com/fotos/joao_silva.jpg",
+    "company": "Construções Silva Ltda"
+  },
+  {
+    "name": "Maria Oliveira",
+    "id": "9b8b3ab5-4f45-41c9-8c73-a7c40f51a3cc",
+    "photoUrl": "https://exemplo.com/fotos/maria_oliveira.jpg",
+    "company": "Engenharia Oliveira SA"
+  },
+  {
+    "name": "Carlos Pereira",
+    "id": "c9b1d2a1-99f5-420b-8d71-921bc42a2db1",
+    "photoUrl": "https://exemplo.com/fotos/carlos_pereira.jpg",
+    "company": "Pereira Construções e Reformas ME"
+  },
+  {
+    "name": "Ana Costa",
+    "id": "7e5b1228-f1e7-4b98-94a7-6346f1e2c2db",
+    "photoUrl": "https://exemplo.com/fotos/ana_costa.jpg",
+    "company": "Costa Arquitetura e Obras Ltda"
+  }
+]
+}
